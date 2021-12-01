@@ -28,9 +28,6 @@ a,b=b,a
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![swapping](./output.png)
+![swap](./output.PNG)
 ## RESULT:
 Thus the swapping of two values are successfully executed.
-
-
-
